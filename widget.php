@@ -7,6 +7,7 @@ Author: Hinaloe
 /**
  *
  * Qiita Widget
+ * @link http://qiita.com/kimama1997/items/3b78ffe5a1a0041cf93b
  */
 
 /**
